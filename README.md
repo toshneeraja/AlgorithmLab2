@@ -9,10 +9,7 @@
 
 AlgorithmLab is a menu-driven **command-line** program written in Python.
 It lets a user run fundamental algorithms, number algorithms, array/list
-techniques and Python data-structure demonstrations, and see the time and
-space complexity of each algorithm. All algorithm logic is written by hand
-inside a single file, `main.py`. The purpose is educational (algorithmic
-problem solving).
+techniques and Python data-structure demonstrations, and see the time and space complexity of each algorithm. All algorithm logic is written by handinside a single file, `main.py`. The purpose is educational (algorithmic problem solving).
 
 ## 2. Problem Statement
 
@@ -61,8 +58,7 @@ input validation, worked examples and a complexity reference.
 
 1. **Fundamental Algorithms** - exchange two values; count elements by a
    condition; sum of first n numbers; factorial (iteration); Fibonacci
-   sequence; reverse a number; decimal to another base (2-16); character to
-   Unicode value; Unicode value to character.
+   sequence; reverse a number; decimal to another base (2-16); character to Unicode value; Unicode value to character.
 2. **Number Algorithms** - square root (Newton's method); smallest divisor;
    GCD (Euclidean); primes up to n (Sieve of Eratosthenes); prime
    factorization; pseudo-random numbers (Linear Congruential Generator);
@@ -72,8 +68,7 @@ input validation, worked examples and a complexity reference.
    pivot; kth smallest element; list/tuple/set/dictionary demonstration.
 4. **Data Structure Demonstration** - list, tuple, set, dictionary, and
    membership search (list vs set).
-5. **Algorithm Complexity** - choose an algorithm to see its approach, time
-   complexity and space complexity, or show all.
+5. **Algorithm Complexity** - choose an algorithm to see its approach, time complexity and space complexity, or show all.
 6. **Examples** - built-in sample runs of fundamental, number and array algorithms.
 
 ## 7. Technologies Used
